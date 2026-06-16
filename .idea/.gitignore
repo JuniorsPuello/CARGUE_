@@ -1,0 +1,16 @@
+# VSCode y configuraciones
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+
+# Archivos temporales
+*.log
+*.tmp

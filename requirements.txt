@@ -1,0 +1,6 @@
+pandas
+openpyxl
+oracledb
+pdf2image
+pytesseract
+Pillow
