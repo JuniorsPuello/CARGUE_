@@ -1,0 +1,13 @@
+2026-06-16 15:07:00,161 [INFO] Procesando documento: C:/Users/1122125169/CARGUE_/prueba.pdf
+2026-06-16 15:07:02,754 [INFO] Radicado=2026107017030203/MDN-COGFM-COEJC-DADAE | Fecha=29 DE MAYO DE 2026 | tablas=6
+2026-06-16 15:07:02,755 [INFO]   Módulo 1862 'Borrado Completo': 28/28 IDs
+2026-06-16 15:07:02,757 [INFO]   Módulo 1862 'Borrado Documentos': 6/6 IDs
+2026-06-16 15:07:02,758 [INFO]   Módulo 1862 'Eliminación Noticia Disciplinaria': 31/33 IDs
+2026-06-16 15:07:02,759 [INFO]   Módulo 1476 'Eliminar SIDAE': 5/5 IDs
+2026-06-16 15:07:02,760 [INFO]   Módulo 1476 'Borrado Completo': 19/19 IDs
+2026-06-16 15:07:02,762 [INFO]   Módulo 1476 'Cambio de NO a SI Infractor': 6/6 IDs
+2026-06-16 15:07:02,779 [INFO] Tickets generados: 95 | advertencias: 4
+2026-06-16 15:07:02,779 [WARNING] ADVERTENCIA: Módulo 1862 (Eliminación Noticia Disciplinaria): el documento indica 33 registros pero se detectaron 31. Verifica el OCR.
+2026-06-16 15:07:02,779 [WARNING] ADVERTENCIA: Operación no reconocida en el catálogo: módulo 1862 'Eliminación Noticia Disciplinaria' \u2192 se asignó el subtema genérico 641. Amplía el catálogo (catalogo.csv) o revísala.
+2026-06-16 15:07:02,779 [WARNING] ADVERTENCIA: Operación no reconocida en el catálogo: módulo 1476 'Eliminar SIDAE' \u2192 se asignó el subtema genérico 641. Amplía el catálogo (catalogo.csv) o revísala.
+2026-06-16 15:07:02,779 [WARNING] ADVERTENCIA: Operación no reconocida en el catálogo: módulo 1476 'Cambio de NO a SI Infractor' \u2192 se asignó el subtema genérico 641. Amplía el catálogo (catalogo.csv) o revísala.

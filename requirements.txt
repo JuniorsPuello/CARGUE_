@@ -1,6 +1,7 @@
 pandas
 openpyxl
 oracledb
-pdf2image
+pypdfium2
 pytesseract
 Pillow
+customtkinter

@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Configuración local de rutas (Tesseract/Poppler por máquina)
+config.json
+
+# Archivos generados por el pipeline
+tickets.xlsx
+ticket_mensajes.xlsx
+
+# Log de auditoría (local)
+cargue.log
+
+# IDE
+.idea/
+.vscode/
+
+# Sistema
+Thumbs.db
+desktop.ini
